@@ -1,3 +1,3 @@
 # Social-media
 
-in this project imgonna creat a social media :)
+in this project i'm gonna creat a social media :)
